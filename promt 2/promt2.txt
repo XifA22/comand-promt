@@ -1,0 +1,2 @@
+Percobaan pertama
+buatkan aplikasi visualisasi data diagram lingkaran dengan matplotlib dan framework streamlit. untuk fitur bisa upload file csv dengan tombol paling atas dan muncul gambar diagramnya dibawah tombol upload csv
