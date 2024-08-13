@@ -1,0 +1,2 @@
+Percobaan Pertama
+buatkan visualisasi data diagram batang dengan streamlit. bisa upload file csv dengan tombol paling atas upload file csv, dibawahnya ada gambar visualisasi
